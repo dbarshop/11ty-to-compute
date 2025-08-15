@@ -10,12 +10,11 @@
   --font-family-list: monospace;
 
   /* Colors you'll see cascade through the elements */
-  --color-bg: #ffffff; /* Used for the page body background */
-  --color-bg-alt: red; /* Used for social icons on hover */
+  --color-bg: #c9ecfd; /* Used for the page body background */
+  --color-bg-alt: #ffffff; /* Used for social icons on hover */
   --color-text-main: #000000; /* List text ann social icons on hover */
-  --color-primary: white; /* Headers and borders */
-  --color-secondary: #000000; /* Headers and borders */
-  --color-header: #000000;
+  --color-primary: #ba160a; /* Headers and borders */
+  --color-header: #fcc9c5;
 }
 
 /* Basic page style resets */
@@ -59,7 +58,7 @@ h5 {
 }
 h1 {
   display: inline-flex;
-  color: var(--color-secondary);
+  color: var(--color-primary);
   justify-content: center;
 }
 header {
@@ -86,20 +85,12 @@ header a:not(.home-link){
 	margin: 0;
 	list-style: none;
 }
-/* Navigation alignment fix */
-.nav-list {
-  display: flex;
-  align-items: center; /* Ensure all nav items align properly */
-}
-
 .nav-item {
-  display: flex;
-  align-items: center; /* Align nav items to center */
-  margin-right: 2rem;
+	display: inline-block;
 }
-/* .nav-item a[href]:not(:hover) {
+.nav-item a[href]:not(:hover) {
 	text-decoration: none;
-} */
+}
 .nav a[href][aria-current="page"] {
 	text-decoration: underline;
 }
