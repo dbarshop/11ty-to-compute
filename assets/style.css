@@ -85,12 +85,20 @@ header a:not(.home-link){
 	margin: 0;
 	list-style: none;
 }
+/* Navigation alignment fix */
+.nav-list {
+  display: flex;
+  align-items: center; /* Ensure all nav items align properly */
+}
+
 .nav-item {
-	display: inline-block;
+  display: flex;
+  align-items: center; /* Align nav items to center */
+  margin-right: 2rem;
 }
-.nav-item a[href]:not(:hover) {
+/* .nav-item a[href]:not(:hover) {
 	text-decoration: none;
-}
+} */
 .nav a[href][aria-current="page"] {
 	text-decoration: underline;
 }
