@@ -1,0 +1,17 @@
+---
+layout: base.njk
+templateClass: tmpl-home
+---
+
+{# This is the template for the Reflect page–it lists the reflection posts in the collection #}
+
+<div class="wrapper home">
+  <div class="content">
+    {{ content | safe }}
+    <ul>
+      {%- for reflect in collections.reflect -%}
+        <li{% if page.url == reflect.url %} aria-current="page"{% endif %}>{{ reflect.data.page.date | htmlDateString }} — <a href='{{ reflect.url }}'>{{ reflect.data.title }}</a></li>
+      {%- endfor -%}
+    </ul>
+  </div>
+</div>
