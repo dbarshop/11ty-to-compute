@@ -2,9 +2,9 @@
 layout: page.njk
 ---
 
-# About this site
+# About the Saddies
 
-Here you can write some details about you and your new blog: 
+Here is where I'll put info about me and Moy.
 
 * 🎉 I love blogging
 * 💥 I built this site using [Eleventy](https://www.11ty.dev/) 
