@@ -5,23 +5,9 @@
   --avatar-max-width: 140px;
 
   /* Fonts for different elements */
-  .cardo-regular {
-    font-family: "Cardo", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-
-  .cardo-bold {
-    font-family: "Cardo", serif;
-    font-weight: 700;
-    font-style: normal;
-  }
-
-  .cardo-regular-italic {
-    font-family: "Cardo", serif;
-    font-weight: 400;
-    font-style: italic;
-  }
+  --font-family: sans-serif;
+  --font-family-header: sans-serif;
+  --font-family-list: monospace;
 
   /* Colors you'll see cascade through the elements */
   --color-bg: #ffffff; /* Used for the page body background */
