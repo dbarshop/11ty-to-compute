@@ -1,5 +1,5 @@
 ---
-layout: posts.njk
+layout: advice.njk
 ---
 
 # Advice
