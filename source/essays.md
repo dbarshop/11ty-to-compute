@@ -1,5 +1,5 @@
 ---
-layout: posts.njk
+layout: essays.njk
 ---
 
 # Essays
