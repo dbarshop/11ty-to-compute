@@ -59,6 +59,13 @@ body {
   margin: 0 auto;
 }
 
+.about-content {
+  display: flex;
+  flex-direction: column;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
 /* Typography */
 p {
   margin: 0 0 1rem 0;
@@ -203,4 +210,37 @@ a.remix {
   border: 2px solid var(--color-text-main);
   border-radius: 5px;
   padding:0.5rem;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 8px;
+}
+
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+
+.about {
+  padding: 0 16px;
+}
+
+.about::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
 }
