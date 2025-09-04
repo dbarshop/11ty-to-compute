@@ -6,9 +6,9 @@
 
   /* Fonts for different elements */
 
-  --font-family: Cardo, sans-serif;
+  --font-family: Poppins, sans-serif;
   --font-family-header: Cardo, serif;
-  --font-family-list: Cardo, monospace;
+  --font-family-list: Poppins, sans-serif;
 
   /* Colors you'll see cascade through the elements */
   --color-bg: #ffffff; /* Used for the page body background */
