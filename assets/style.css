@@ -55,7 +55,7 @@ body {
 .content {
   display: flex;
   flex-direction: column;
-  max-width: 80rem;
+  max-width: 50rem;
   margin: 0 auto;
 }
 
@@ -85,6 +85,18 @@ h1 {
   color: var(--color-secondary);
   justify-content: center;
 }
+
+.postTitle{
+  text-decoration: underline;
+}
+
+.wrapper-post{
+  display: flex;
+  flex-direction: column;
+  max-width: 50rem;
+  margin: 0 auto;
+}
+
 header {
 	border-bottom: 1px dashed var(--color-gray-20);
 	display: flex;
