@@ -13,7 +13,8 @@ Here is where I'll put info about me and Moy.
       <div class="about">
         <h2>Alanna Gonzalez</h2>
         <p class="title">Co-Founder</p>
-        <p>I’m Alanna, the friend who double checks your email before you click send. I’ve spent most of my career in HR adjacent roles and all of my career wondering where people get the audacity. As much as I’ve tried to avoid being a careerist, I’ve gathered many tips and tricks along the way. I’m constantly redefining what success looks like for me and the biggest advocate for using up all your PTO. A reluctant corporate baddie, who is sometimes, often a corporate saddie too. </p>
+        <p>I’m Alanna, the friend who double checks your email before you click send. I’ve spent most of my career in HR-adjacent roles and all of my career wondering where people get the audacity.</p>
+        <p>As much as I’ve tried to avoid being a careerist, I’ve gathered many tips and tricks along the way. I’m constantly redefining what success looks like for me,  and I'm the biggest advocate for using up all your PTO. A reluctant professional baddie, who is sometimes, often, a professional saddie too. </p>
       </div>
     </div>
   </div>
