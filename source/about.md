@@ -24,7 +24,8 @@ Here is where I'll put info about me and Moy.
       <div class="about">
         <h2>Deanna Barshop</h2>
         <p class="title">Co-Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>Hello, Deanna here! While in college, I accidentally fell into the tech industry. Now a decade up the corporate ladder, I’m reflecting on the journey and excited to share my thoughts with you.</p>
+        <p>I believe strongly in making careers in tech more accessible for women of color. I also know first hand the isolation and self-doubt that can come with being in this industry. I hope to help you spend less time being a saddie and get on the fast track to being a professional baddie.</p>
       </div>
     </div>
   </div>
