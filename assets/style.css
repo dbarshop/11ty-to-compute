@@ -221,6 +221,11 @@ ul.no-bullet {
   display: flex;
   justify-content: flex-end;
 }
+
+.footer-text{
+  color: var(--color-primary);
+}
+
 a.remix {
   background-color: var(--color-bg-alt);
   border: 2px solid var(--color-text-main);
