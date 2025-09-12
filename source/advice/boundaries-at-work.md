@@ -2,6 +2,7 @@
 title: How to set boundaries at work at your new tech job
 description: Boundaries at work are essential for longevity in the workplace, but it’s often something that easily compromised. Here are some helpful tips for setting work boundaries at your new job. 
 date: 2025-09-10
+image: /assets/calendar.jpg
 tags:
   - advice
 layout: post.njk

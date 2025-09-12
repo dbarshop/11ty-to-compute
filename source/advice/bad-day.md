@@ -2,6 +2,7 @@
 title: 4 Things To Remember When You’ve Had a Bad Day at Work
 description: Being human means riding the highs and lows of life and that includes the highs and lows of work.
 date: 2025-09-10
+image: /assets/stressed.jpg
 tags:
   - advice
 layout: post.njk
