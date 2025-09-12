@@ -217,7 +217,7 @@ ul.no-bullet {
   padding: 1.5rem;
   width: 100%;
   flex-wrap: wrap;
-  background-color: var(--color-primary);
+  background-color: var(--color-header);
   display: flex;
   justify-content: flex-end;
 }
