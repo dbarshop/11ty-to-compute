@@ -4,4 +4,4 @@ layout: advice.njk
 
 # Advice
 
-Ideally this page would show where you can read all Moy's great tips and tricks.
+Learn from those who have been there and done that. You don't have to do it alone.
