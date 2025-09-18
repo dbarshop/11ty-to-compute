@@ -10,7 +10,7 @@ templateClass: tmpl-home
     {{ content | safe }}
     <ul>
       {%- for advice in collections.advice -%}
-        <li{% if page.url == advice.url %} aria-current="page"{% endif %}>{{ advice.data.page.date | htmlDateString }} — <a href='{{ advice.url }}'>{{ advice.data.title }}</a></li>
+        <li{% if page.url == advice.url %} aria-current="page"{% endif %}><a href='{{ advice.url }}'>{{ advice.data.title }}</a></li>
       {%- endfor -%}
     </ul>
   </div>
