@@ -9,7 +9,7 @@ Here is where I'll put info about me and Moy.
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/assets/pig.svg" alt="Alanna" style="width:100%">
+      <img src="/assets/alanna.jpg" alt="Alanna" style="width:100%">
       <div class="about">
         <h2>Alanna Gonzalez</h2>
         <p class="title">Co-Founder</p>
@@ -21,7 +21,7 @@ Here is where I'll put info about me and Moy.
 
   <div class="column">
     <div class="card">
-      <img src="/assets/panda.svg" alt="Deanna" style="width:100%">
+      <img src="/assets/deanna.jpg" alt="Deanna" style="width:100%">
       <div class="about">
         <h2>Deanna Barshop</h2>
         <p class="title">Co-Founder</p>
