@@ -4,4 +4,4 @@ layout: essays.njk
 
 # Essays
 
-Ideally this would show a round up of all the cool essays I write.
+Coming soon! Thoughts on the intersection of tech, culture, and work. Here to help you feel seen.

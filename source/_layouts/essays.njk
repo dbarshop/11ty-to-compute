@@ -8,10 +8,12 @@ templateClass: tmpl-home
 <div class="wrapper home">
   <div class="content">
     {{ content | safe }}
+    {#
     <ul>
       {%- for essay in collections.essays -%}
         <li{% if page.url == essays.url %} aria-current="page"{% endif %}>{{ essay.data.page.date | htmlDateString }} — <a href='{{ essay.url }}'>{{ essay.data.title }}</a></li>
       {%- endfor -%}
     </ul>
+    #}
   </div>
 </div>

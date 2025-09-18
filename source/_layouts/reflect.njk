@@ -8,10 +8,12 @@ templateClass: tmpl-home
 <div class="wrapper home">
   <div class="content">
     {{ content | safe }}
+    {#
     <ul>
       {%- for reflect in collections.reflect -%}
         <li{% if page.url == reflect.url %} aria-current="page"{% endif %}>{{ reflect.data.page.date | htmlDateString }} — <a href='{{ reflect.url }}'>{{ reflect.data.title }}</a></li>
       {%- endfor -%}
     </ul>
+    #}
   </div>
 </div>

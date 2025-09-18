@@ -4,8 +4,6 @@ layout: about.njk
 
 # Meet the Saddies
 
-Here is where I'll put info about me and Moy.
-
 <div class="row">
   <div class="column">
     <div class="card">
