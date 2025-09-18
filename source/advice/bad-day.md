@@ -3,12 +3,13 @@ title: 4 Things To Remember When You’ve Had a Bad Day at Work
 description: Being human means riding the highs and lows of life and that includes the highs and lows of work.
 date: 2025-09-10
 image: /assets/stressed.jpg
+author: Alanna Gonzalez
 tags:
   - advice
 layout: post.njk
 ---
 
-Being human means riding the highs and lows of life and that includes the highs and lows of work. When we get a new job, it can be so exciting to finally get paid for our worth or to be chasing after our dreams. That’s not to say everyday will be exciting though. You can have the title, pay, coworkers that you’ve always wanted, but still have bad days at work. The project you were so excited about reaches a set back, you mixed up clients at work, you choked on a presentation, or you flat out just made a mistake. Whatever the reason for the bad day, they exist and that’s okay! Just remember:
+Being human means riding the highs and lows of life and that includes the highs and lows of work. When we get a new job, it can be so exciting to finally get paid for our worth or to be chasing after our dreams. That’s not to say everyday will be exciting though. You can have the title, pay, coworkers that you’ve always wanted, but still have bad days at work. The project you were so excited about reaches a setback, you mixed up clients at work, you choked on a presentation, or you flat out just made a mistake. Whatever the reason for the bad day, they exist and that’s okay! Just remember:
 
 ## It’s Just Work and People Make Mistakes at Work 
 

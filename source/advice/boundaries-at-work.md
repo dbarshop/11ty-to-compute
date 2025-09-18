@@ -3,12 +3,13 @@ title: How to set boundaries at work at your new tech job
 description: Boundaries at work are essential for longevity in the workplace, but it’s often something that easily compromised. Here are some helpful tips for setting work boundaries at your new job. 
 date: 2025-09-10
 image: /assets/calendar.jpg
+author: Alanna Gonzalez
 tags:
   - advice
 layout: post.njk
 ---
 
-Boundaries at work are essential for longevity in the workplace, but it’s often something that easily compromised. We all know that one coworker or boss who works late nights and into the weekend, never taking a vacation. You might find these colleagues are praised for their “dedication” and being an exceptional team player. 
+Boundaries at work are essential for longevity in the workplace, but they are often something easily compromised. We all know that one coworker or boss who works late nights and into the weekend, never taking a vacation. You might find these colleagues are praised for their “dedication” and being an exceptional team player. 
 The harsh reality is no one is going to set or keep your boundaries at work except for you. If someone is consistently willing to work non-stop outside of the 9 to 5, of course they’re getting more work done than you. Why would a boss or management step in to stop that? The truth is, work never stops. When one project ends, there’s always another one waiting. Work will always be there, but you don’t have to make it your whole personality. Here are some helpful tips for setting work boundaries at your new job. 
 
 ## Calendar Management
